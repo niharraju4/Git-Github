@@ -1,7 +1,10 @@
 # Git-Github
 
 Author: Nihar Muniraju
+
+
 Connecting Remote GitHub Repository to Local Git and Pushing Changes: Detailed Guide
+
 Step 1: Install Git on Your Local Machine
 Before you can start using Git, you need to install it on your machine.
 
